@@ -17,6 +17,9 @@ Welcome to the Delicious Apples Showcase project! This simple web page aims to s
 
 The Delicious Apples Showcase is a web page built with HTML, CSS, and a touch of JavaScript to display information about a variety of apples. It provides a visual representation of different apple images, allows users to choose apple colors, and presents information about the benefits of consuming apples.
 
+## Screenshot
+![Delicious Apples Showcase](./images/dsektopimage.jpg "Apple Page")
+
 ## Installation
 
 To use this project locally, follow these steps:
